@@ -1,15 +1,15 @@
 *{margin: 0;
   padding: 0;}
-  body{background-color: blanchedalmond;}
+  body{background-color: #F9F7C8;}
 header{
-    background-image:url(../img/background\,jpg.png)!important;
-    background-repeat:(cover)!important;
-    width: auto;
-    height: 60px;
+    background-image:url(../img/jazmin3.webp)!important;
+    background-repeat:cover;
+    width:auto;
+    height: 100px;
     }
    .bg-body-tertiary {--bs-bg-opacity: 0;
     background-color: white ;
-    font-family: sans-serif;font-style: italic;
+    font-family: sans-serif;font-style: italic; text-decoration: underline;text-decoration-color: green;
       
        }
      .toggler-icon-mine{
@@ -19,18 +19,19 @@ header{
           font-family : fantasy;
           color:red !important }
     h1 { text-align: center;
-        color: teal;
+        color:#19AB83;
         font-family:Helvetica;
-        font: size 2fr;;
+        font: size 2fr;text-decoration: solid ;text-decoration: underline;
       }
+      
     main{ text-align: start;
       align-items: end;}
      section div h2{text-align: center;
-      color: purple;
+      color:#AF59FA;text-transform: lowercase;
       margin-left: 2px; }
-     .p1::first-letter{ color: gold;
+     .p1::first-letter{ color: rgba(143, 38, 12, 0.904);
       font-size: larger;
-      font-family: Tahoma,}
+      font-family: Tahoma;margin-left:2px;}
      footer h4{text-align: center;
       color:black ; 
       font-family: 'Times New Roman';}
@@ -49,7 +50,8 @@ header{
      .cur h4 {color: burlywood;
       text-align:center;}
      .cur h4 p{color:black;
-      font-family: Arial;}
+      font-family: Arial;
+      pading:2px}
      .cur h2{color:greenyellow;
       text-align: center;}
      .us h2{ color:black;
@@ -61,9 +63,10 @@ header{
       font-family: cursive;
       text-align: center;}
      .card1{background-color:teal;
-      font-family:Arial;!important}
+      font-family:(Arial)!important}
      .card2{background-color:rgb(red, rgb(73, 139, 73), blue) ;
-      font-family: arial;!important}
+      font-family: (arial)!important}
      .card3{background-color: rgb(red, rgb(80, 204, 80), blue);
-      font-family: arial;!important}
-     .btn-primary{background-color: cadetblue; !important}
+      font-family: (arial)!important}
+     .btn-primary{background-color: (cadetblue) !important}
+     .carrusel{margin-left: 4px; ;padding-left: 2px;}
